@@ -6,7 +6,7 @@ my name is **Raheem**. I'm a Full Stack Developer
 
 I'm a passionate and goal driven individual who enjoys carring out task in the easiest and most efficient way. My weakness is that I like to restructure things once I discover a better approach not just code related but generally. Go through my codes to get to know me better 😄.
 
- 📫How to reach me [![](https://img.shields.io/badge/-@bieefilled-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/raheemscorp)  [![Linkedin Badge](https://img.shields.io/badge/-bieefilled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-peters-0746b1216/)](https://www.linkedin.com/in/abdulraheem-yusuf-b99bb1234/)
+ 📫How to reach me [![](https://img.shields.io/badge/-@raheem-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/raheemscorp)  [![Linkedin Badge](https://img.shields.io/badge/-raheem-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulraheem-yusuf-b99bb1234/)
 
 
 ### ⚡ TOOLS AND TECHNOLOGIES USED
