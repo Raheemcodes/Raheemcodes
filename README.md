@@ -22,6 +22,7 @@ I'm a passionate and goal driven individual who enjoys carring out task in the e
 ![EJS](https://img.shields.io/badge/-Ejs-black?style=flat-square&logo=ejs)
 ![PUG](https://img.shields.io/badge/-PUG-black?style=flat-square&logo=pug)
 ![Handlebars](https://img.shields.io/badge/-Handlebars-black?style=flat-square&logo=handlebars)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
