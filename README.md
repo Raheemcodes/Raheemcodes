@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is **Raheem**. I'm a Full Stack Developer
+My name is **Raheem**. I'm a Full Stack Developer
 
 <h3>About Me</h3>
 
